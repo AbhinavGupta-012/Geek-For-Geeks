@@ -31,6 +31,6 @@ jobs:
             exit 0
           fi
 
-          git add CSES
-          git commit -m "Auto-update GFG submodule from recent push"
+          git add "Geek For Geeks"
+          git commit -a -m "Auto-update GFG submodule from recent push"
           git push
