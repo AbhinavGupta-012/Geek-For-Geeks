@@ -6,3 +6,5 @@ Code Warehouse for all of my GeekForGeeks Solutions
 2. [Prime Number](/Prime%20Number) on 2nd Aug 2026 in Java.
 
 3. [The Else if Statement](/The%20Else%20if%20Statement) on 3rd Aug 2026 in Java.
+
+4. [Sum of Natural Numbers](/Sum%20of%20Natural%20Numbers) on 4th Aug 2026 in Java.
