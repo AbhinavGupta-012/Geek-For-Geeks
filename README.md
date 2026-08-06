@@ -9,4 +9,6 @@ Code Warehouse for all of my GeekForGeeks Solutions
 
 4. [Sum of Natural Numbers](/Sum%20of%20Natural%20Numbers) on 4th Aug 2026 in Java.
 
-5. [Odd or Even](/Odd%20or%20Even) on 5th Aug 2026 in Java.s
+5. [Odd or Even](/Odd%20or%20Even) on 5th Aug 2026 in Java.
+
+6. [Closest to n and Divisible by m](/Closest%20to%20n%20and%20Divisible%20by%20m) on 6th Aug 2026 in Java.
